@@ -1,25 +1,25 @@
 <svg height="350" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="350" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 12:48:37 +0000   171570 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 12:48:37 +0000     1099 bytes  License.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 12:48:37 +0000     2370 bytes  _tmp/logo-ion-range-slider.png</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 12:48:37 +0000     3428 bytes  css/ion.rangeSlider.css</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 12:48:37 +0000     2206 bytes  css/ion.rangeSlider.skinFlat.css</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 12:48:37 +0000     2881 bytes  css/ion.rangeSlider.skinHTML5.css</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 12:48:37 +0000     2304 bytes  css/ion.rangeSlider.skinModern.css</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 12:48:37 +0000     2087 bytes  css/ion.rangeSlider.skinNice.css</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 12:48:37 +0000     2101 bytes  css/ion.rangeSlider.skinSimple.css</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 12:48:37 +0000     7926 bytes  css/normalize.css</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 12:48:37 +0000     3469 bytes  history.md</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 12:48:37 +0000      304 bytes  img/sprite-skin-flat.png</tspan>
-<tspan x="10" y="218"> 12.  2017-04-17 12:48:37 +0000      505 bytes  img/sprite-skin-modern.png</tspan>
-<tspan x="10" y="234"> 13.  2017-04-17 12:48:37 +0000      694 bytes  img/sprite-skin-nice.png</tspan>
-<tspan x="10" y="250"> 14.  2017-04-17 12:48:37 +0000      358 bytes  img/sprite-skin-simple.png</tspan>
-<tspan x="10" y="266"> 15.  2017-04-17 12:48:37 +0000     3059 bytes  index.md</tspan>
-<tspan x="10" y="282"> 16.  2017-04-17 12:48:37 +0000    81889 bytes  js/ion.rangeSlider.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-17 12:48:37 +0000    39759 bytes  js/ion.rangeSlider.min.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-17 12:48:37 +0000     2945 bytes  package.json</tspan>
-<tspan x="10" y="330"> 19.  2017-04-17 12:48:37 +0000    12186 bytes  readme.md</tspan>
+<tspan x="10" y="26">  0.  2017-04-24 17:49:21 +0000   170086 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-24 17:49:21 +0000     1099 bytes  License.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-24 17:49:21 +0000     2370 bytes  _tmp/logo-ion-range-slider.png</tspan>
+<tspan x="10" y="74">  3.  2017-04-24 17:49:21 +0000     3428 bytes  css/ion.rangeSlider.css</tspan>
+<tspan x="10" y="90">  4.  2017-04-24 17:49:21 +0000     2206 bytes  css/ion.rangeSlider.skinFlat.css</tspan>
+<tspan x="10" y="106">  5.  2017-04-24 17:49:21 +0000     2881 bytes  css/ion.rangeSlider.skinHTML5.css</tspan>
+<tspan x="10" y="122">  6.  2017-04-24 17:49:21 +0000     2304 bytes  css/ion.rangeSlider.skinModern.css</tspan>
+<tspan x="10" y="138">  7.  2017-04-24 17:49:21 +0000     2087 bytes  css/ion.rangeSlider.skinNice.css</tspan>
+<tspan x="10" y="154">  8.  2017-04-24 17:49:21 +0000     2101 bytes  css/ion.rangeSlider.skinSimple.css</tspan>
+<tspan x="10" y="170">  9.  2017-04-24 17:49:21 +0000     7926 bytes  css/normalize.css</tspan>
+<tspan x="10" y="186"> 10.  2017-04-24 17:49:21 +0000     3469 bytes  history.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-24 17:49:21 +0000      304 bytes  img/sprite-skin-flat.png</tspan>
+<tspan x="10" y="218"> 12.  2017-04-24 17:49:21 +0000      505 bytes  img/sprite-skin-modern.png</tspan>
+<tspan x="10" y="234"> 13.  2017-04-24 17:49:21 +0000      694 bytes  img/sprite-skin-nice.png</tspan>
+<tspan x="10" y="250"> 14.  2017-04-24 17:49:21 +0000      358 bytes  img/sprite-skin-simple.png</tspan>
+<tspan x="10" y="266"> 15.  2017-04-24 17:49:21 +0000     3059 bytes  index.md</tspan>
+<tspan x="10" y="282"> 16.  2017-04-24 17:49:21 +0000    81889 bytes  js/ion.rangeSlider.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-24 17:49:21 +0000    39759 bytes  js/ion.rangeSlider.min.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-24 17:49:21 +0000     1461 bytes  package.json</tspan>
+<tspan x="10" y="330"> 19.  2017-04-24 17:49:21 +0000    12186 bytes  readme.md</tspan>
 </text>
 </svg>
